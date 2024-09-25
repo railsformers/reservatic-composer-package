@@ -1,4 +1,4 @@
-```markdown
+
 # Reservatic PHP API Client
 
 Tento balíček poskytuje PHP klienta pro práci s API Reservatic.
@@ -14,11 +14,10 @@ Tento balíček poskytuje PHP klienta pro práci s API Reservatic.
 Pro instalaci tohoto balíčku použijte Composer:
 
 composer require railsformers/reservatic
-```
 
 ## Použití
 
-Zde je příklad, jak použít tento balíček:
+Zde je příklad, použítí:
 
 ```php
 <?php
